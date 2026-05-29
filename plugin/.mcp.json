@@ -2,7 +2,7 @@
   "mcpServers": {
     "openscouter": {
       "type": "http",
-      "url": "https://openscouter.com/api/mcp"
+      "url": "https://openscouter.com/api/mcp/mcp"
     }
   }
 }
