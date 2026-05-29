@@ -1,0 +1,18 @@
+{
+  "name": "openscouter",
+  "owner": {
+    "name": "OpenScouter"
+  },
+  "metadata": {
+    "description": "Run usability studies and pull insights from your terminal",
+    "homepage": "https://openscouter.com"
+  },
+  "plugins": [
+    {
+      "name": "openscouter",
+      "version": "1.0.0",
+      "source": "./plugin",
+      "description": "Connect Claude Code to OpenScouter: read your studies, tests, analytics, and insights, and draft new studies, without leaving your terminal."
+    }
+  ]
+}

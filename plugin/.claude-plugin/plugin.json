@@ -1,0 +1,18 @@
+{
+  "name": "openscouter",
+  "version": "1.0.0",
+  "description": "Run OpenScouter usability studies from your terminal. Read studies, tests, analytics, and insights, and draft new studies, via the OpenScouter MCP server.",
+  "author": {
+    "name": "OpenScouter"
+  },
+  "homepage": "https://openscouter.com/docs/terminal",
+  "repository": "https://github.com/nicolaraimondo/openscouter-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "openscouter",
+    "usability-testing",
+    "ux-research",
+    "user-testing",
+    "mcp"
+  ]
+}
